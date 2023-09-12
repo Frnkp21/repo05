@@ -16,4 +16,24 @@
 
 ## 5.5 – En este caso, antes de hacer el merge sube ambas ramas al repositorio remoto. Verifica que se hayan subido correctamente. Lo hacemos así, ya que cuando realicemos el merge si nos equivocas podemos volver a clonar el repositorio sin necesidad de tener que volver a comenzar el ejercicio de 0.
 
+![✖️ERROR✖️](./imagenes/7.png)
+
 ## 5.6 – Basándote en el ejemplo que hemos visto anteriormente, realiza un commit no fast-forward en el que mergearemos la rama david02032022 con master.
+
+![✖️ERROR✖️](./imagenes/8.png)
+
+## 5.7 – Visualiza el resultado tanto mediante el comando git log --all --oneline --decorate --graph, como desde el pluging de VSC
+
+![✖️ERROR✖️](./imagenes/9.png)
+
+## 5.8 – Explica las diferencias entre un merge FF y un merge no FF
+
+*En el merge FF se juntaran con el main todos los commits que hemos creado en la branch y se veran todos los commits paso por paso, en cambio en el merge no ff en una branch los commits que hagamos se fusionaran en uno y solo ese se movera al main.*
+
+**Merge No FF**
+
+![✖️ERROR✖️](./imagenes/10.png)
+
+**Merge FF**
+
+![✖️ERROR✖️](./imagenes/11.png)
